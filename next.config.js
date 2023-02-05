@@ -12,6 +12,7 @@ const nextConfig = {
     domains: [
       'picsum.photos',
     ],
+    unoptimized: true
   },
 
   // SVGR
