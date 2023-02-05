@@ -1,4 +1,9 @@
-
+import HOC from '../../public/svg/hoc.png'
+import Analytics from '../../public/svg/analytics.png'
+import Cowry from '../../public/svg/cowry.png'
+import Quidroo from '../../public/svg/quidroo.png'
+import WasteCoin from '../../public/svg/wastecoin.png'
+import Widget from '../../public/svg/widget.png'
 export const navbarArr = [
     {
         id: 1,
@@ -44,8 +49,8 @@ export const aboutArr = [
 export const blogArr = [
     {
         id: 1,
-        title: "Understanding Higher-Order components in ReactJS using charts",
-        img: "https://picsum.photos/200",
+        title: "Understanding HOCs in ReactJS using charts",
+        img: HOC,
         writeup:"This article explains how to use Higher Order Components (HOCs) in ReactJS by using examples and visualisations to illustrate the concept.",
         hashtags: ["#reactjs", "#HOC", "#charts"],
         link:"https://medium.com/@todak2000/understanding-higher-order-components-in-reactjs-using-charts-b2bcb2d02fc4"
@@ -53,9 +58,9 @@ export const blogArr = [
     {
         id: 2,
         title: "Building a Single Page Application Embeddable Widget",
-        img: "https://picsum.photos/200",
-        writeup:"This article discusses the process of building a single page application embeddable widget, with a focus on the creation of the necessary components and the implementation of the application.",
-        hashtags: ["#spa", "#javascript", "#widget"],
+        img: Widget,
+        writeup:"This article examines the steps involved in constructing an embeddable widget for single page applications, with spotlight on the components and the application's implementation.",
+        hashtags: ["#spa", "#js", "#widget"],
         link:"https://medium.com/@todak2000/building-a-single-page-application-embeddable-widget-47c95a7bfbfa"
     },
     // {
@@ -80,7 +85,7 @@ export const projectArr = [
     {
         id: 1,
         title: "WasteCoin",
-        img: "https://picsum.photos/200",
+        img: WasteCoin,
         writeup:"A mobile app that educates and rewards users for their recycling effort with the wastecoin token which can be used to purchase products, services, and fund charities",
         hashtags: ["#reactjs", "#django", "#cleantech"],
         link:"https://wastecoin.co.uk/"
@@ -88,7 +93,7 @@ export const projectArr = [
     {
         id: 2,
         title: "Quidroo",
-        img: "https://picsum.photos/200",
+        img: Quidroo,
         writeup:"An online factoring platform where transactions are streamlined and SMEs get paid within 72 hours by selling their invoices to investors to get fast cash at favorable rates",
         hashtags: ["#reactjs", "#django", "#fintech"],
         link:"https://quidroo.com/"
@@ -96,7 +101,7 @@ export const projectArr = [
     {
         id: 3,
         title: "Cowry Protocol",
-        img: "https://picsum.photos/200",
+        img: Cowry,
         writeup:"A peer-to-peer decentralized fiat on-and-off ramp protocol built on Stellar blockchain technology",
         hashtags: ["#reactjs", "#javascript"],
         link:"https://cowry-frontend.herokuapp.com/"
@@ -104,7 +109,7 @@ export const projectArr = [
     {
         id: 4,
         title: "React-user-analytics",
-        img: "https://picsum.photos/200",
+        img: Analytics,
         writeup:"A public react library that all developers to manage certain users’ analytics data such as is collected by google analytics (user device, user location, pages visited etc",
         hashtags: ["#reactjs", "#hook", "user-analytics"],
         link:"https://www.npmjs.com/package/@todak2000/react-user-analytics "
