@@ -42,7 +42,7 @@ const Blog: NextPageWithLayout<BlogsProps> =({arrBlog})=>{
                     <p className='text-[0.7rem] leading-3 text-[#818181]'>{item?.writeup}</p>
                     <div className="grid grid-cols-3 gap-2 absolute bottom-4">
                     {item?.hashtags?.map((hash:string)=>{
-                        return <span className="bg-[#283C63] text-center rounded-full px-2 py-1 text-white text-xs">{hash}</span>
+                        return <span key={hash} className="bg-[#283C63] text-center rounded-full px-2 py-1 text-white text-xs">{hash}</span>
                     })}
                     </div>
                 </div>

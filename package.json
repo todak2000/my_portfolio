@@ -18,12 +18,22 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@firebase/firestore": "^3.8.3",
+    "@todak2000/react-user-analytics": "^1.0.6-b.0",
+    "@types/react-plotly.js": "^2.6.0",
+    "@types/uuid": "^9.0.0",
+    "chart.js": "^4.2.0",
     "clsx": "^1.2.1",
+    "firebase": "^9.17.1",
     "next": "^13.1.6",
+    "plotly.js": "^2.18.1",
     "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
-    "tailwind-merge": "^1.9.0"
+    "react-plotly.js": "^2.6.0",
+    "tailwind-merge": "^1.9.0",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^16.3.0",

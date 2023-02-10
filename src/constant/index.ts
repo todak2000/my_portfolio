@@ -25,6 +25,7 @@ export const navbarArr = [
         label: "Blog",
         url:'/Blog'
     },
+
 ]
 
 export const aboutArr = [

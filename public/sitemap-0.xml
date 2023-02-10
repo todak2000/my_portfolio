@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://tsnext-tw.thcl.dev</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-05T20:45:57.227Z</lastmod></url>
-<url><loc>https://tsnext-tw.thcl.dev/About</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-05T20:45:57.227Z</lastmod></url>
-<url><loc>https://tsnext-tw.thcl.dev/Blog</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-05T20:45:57.227Z</lastmod></url>
-<url><loc>https://tsnext-tw.thcl.dev/Home</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-05T20:45:57.227Z</lastmod></url>
-<url><loc>https://tsnext-tw.thcl.dev/Projects</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-05T20:45:57.227Z</lastmod></url>
-<url><loc>https://tsnext-tw.thcl.dev/Resume</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-05T20:45:57.228Z</lastmod></url>
+<url><loc>https://danielolagunju.onrender.com</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-10T02:58:38.247Z</lastmod></url>
+<url><loc>https://danielolagunju.onrender.com/About</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-10T02:58:38.248Z</lastmod></url>
+<url><loc>https://danielolagunju.onrender.com/Analytics</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-10T02:58:38.248Z</lastmod></url>
+<url><loc>https://danielolagunju.onrender.com/Blog</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-10T02:58:38.248Z</lastmod></url>
+<url><loc>https://danielolagunju.onrender.com/Home</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-10T02:58:38.248Z</lastmod></url>
+<url><loc>https://danielolagunju.onrender.com/Projects</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-10T02:58:38.248Z</lastmod></url>
+<url><loc>https://danielolagunju.onrender.com/Resume</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2023-02-10T02:58:38.248Z</lastmod></url>
 </urlset>
