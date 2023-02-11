@@ -31,19 +31,19 @@ export const navbarArr = [
 export const aboutArr = [
     {
         id: 1,
-        text: "Daniel is  a full-stack software engineer, writer and co-founder from Nigeria 🇳🇬 🎉, I graduated from the University of Uyo with a degree in Petroleum Engineering. After graduating, I decided to venture into the field of Information Technology and have been doing so for the past five years. Initially, I started with HTML, CSS, PHP, and JavaScript. Now, I am proficient in React on the frontend and Django on the backend, and I am learning more JavaScript frameworks such as NextJs. "
+        text: "Daniel is  a full-stack software engineer, writer and co-founder from Nigeria 🇳🇬 🎉, graduated from the University of Uyo with a degree in Petroleum Engineering. After graduating, he decided to venture into the field of Information Technology and have been doing so for the past five years. Initially, he started with HTML, CSS, PHP, and JavaScript. Now, he is proficient in React on the frontend and Django on the backend, and he is learning more JavaScript frameworks such as NextJs. "
     },
     {
         id: 2,
-        text:"I have written several articles and created a React library called React-user-analytics which has garnered many downloads. Additionally, I volunteer and contribute to the Stellar Blockchain Ecosystem, acting as both a project reviewer and mentor. Outside of software engineering, I am the Alternate Young Professional Chair of the Society of Petroleum Engineers, Section 199."
+        text:"He has written several articles and created a React library called React-user-analytics which has garnered many downloads. Additionally, he volunteers and contribute to the Stellar Blockchain Ecosystem, acting as both a project reviewer and mentor. Outside of software engineering, he is the Alternate Young Professional Chair of the Society of Petroleum Engineers, Section 199."
     },
     {
         id: 3,
-        text:"My passion for environmental sustainability has led me to create WasteCoin, an initiative focused on improving plastic recycling. In the past, I have also engaged in research, collaborating and actively writing four academic papers and one conference paper."
+        text:"His passion for environmental sustainability has led him to create WasteCoin, an initiative focused on improving plastic recycling. In the past, he has also engaged in research, collaborating and actively writing four academic papers and one conference paper."
     },
     {
         id: 4,
-        text:"In my spare time, I enjoy playing Video games especially PES, cooking and singing, as it helps me to relax when feeling frustrated."
+        text:"In his spare time, he enjoy playing video games, cooking and singing, as it helps him to relax when feeling frustrated."
     },
 ]
 
