@@ -64,6 +64,16 @@ export const blogArr = [
         hashtags: ["#spa", "#js", "#widget"],
         link:"https://medium.com/@todak2000/building-a-single-page-application-embeddable-widget-47c95a7bfbfa"
     },
+    {
+        id: 3,
+        title: "Unlocking the Power of Automation: Creating a Python Bot to Extract Data from LinkedIn",
+        img: Widget,
+        writeup:"This article discusses how to create a Python bot to automate the process of extracting data from LinkedIn.",
+        hashtags: ["#python", "#bot", "#automation"],
+        link:"https://medium.com/@todak2000/unlocking-the-power-of-automation-creating-a-python-bot-to-extract-data-from-linkedin-61a47372fc57"
+    },
+    
+
     // {
     //     id: 3,
     //     title: "Factors contributing to the massive adoption of Cryptocurrency in Africa ",
