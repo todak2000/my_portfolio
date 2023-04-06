@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   eslint: {
-    dirs: ['src'],
+    dirs: ["src"],
   },
 
   reactStrictMode: true,
@@ -9,10 +9,8 @@ const nextConfig = {
 
   // Uncoment to add domain whitelist
   images: {
-    domains: [
-      'picsum.photos',
-    ],
-    unoptimized: true
+    domains: ["picsum.photos"],
+    unoptimized: true,
   },
 
   // SVGR
@@ -22,7 +20,7 @@ const nextConfig = {
       issuer: /\.[jt]sx?$/,
       use: [
         {
-          loader: '@svgr/webpack',
+          loader: "@svgr/webpack",
           options: {
             typescript: true,
             icon: true,
