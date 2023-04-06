@@ -5,6 +5,7 @@ import Quiz from "../../public/svg/Quiz.png";
 import Airbnb from "../../public/svg/Airbnb.png";
 import Quidroo from "../../public/svg/quidroo.png";
 import WasteCoin from "../../public/svg/wastecoin.png";
+import Geynius from "../../public/svg/Geynius.png";
 import Widget from "../../public/svg/widget.png";
 
 export const ResumeLink =
@@ -131,6 +132,14 @@ export const projectArr = [
   },
   {
     id: 3,
+    title: "Geynius",
+    img: Geynius,
+    writeup: "Geynius is an AI platform that helps you create Professional Resume, Portfolio and cover letter in minutes.",
+    hashtags: ["#reactjs", "#typescript", "#chatgpt"],
+    link: "https://geynius.com/",
+  },
+  {
+    id: 4,
     title: "TechTime",
     img: TechTime,
     writeup:
@@ -139,7 +148,7 @@ export const projectArr = [
     link: "https://techtime-226q.onrender.com/",
   },
   {
-    id: 4,
+    id: 5,
     title: "React-user-analytics",
     img: Analytics,
     writeup:
@@ -148,7 +157,7 @@ export const projectArr = [
     link: "https://www.npmjs.com/package/@todak2000/react-user-analytics",
   },
   {
-    id: 5,
+    id: 6,
     title: "Interactive Quiz",
     img: Quiz,
     writeup:
@@ -157,7 +166,7 @@ export const projectArr = [
     link: "https://interactivequiz.onrender.com/",
   },
   {
-    id: 6,
+    id: 7,
     title: "AirBnB clone",
     img: Airbnb,
     writeup: "A simple clone of the AirBnB landing page UI",
