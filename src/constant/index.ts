@@ -7,6 +7,7 @@ import Quidroo from "../../public/svg/quidroo.png";
 import WasteCoin from "../../public/svg/wastecoin.png";
 import Geynius from "../../public/svg/Geynius.png";
 import Widget from "../../public/svg/widget.png";
+import Voom from "../../public/svg/Voom.png";
 
 export const ResumeLink =
   "https://docs.google.com/document/d/1LhRf_kYoqCP9dTXZQ47qZx5UCGEkoa-D/edit";
@@ -167,6 +168,15 @@ export const projectArr = [
   },
   {
     id: 7,
+    title: "Voom",
+    img: Voom,
+    writeup:
+      "Voom is the perfect video calling and chat app for staying connected with friends and family.",
+    hashtags: ["#nextjs", "#typescript", '#webrtc', 'socket.io'],
+    link: "https://voom-g85y.onrender.com",
+  },
+  {
+    id: 8,
     title: "AirBnB clone",
     img: Airbnb,
     writeup: "A simple clone of the AirBnB landing page UI",
