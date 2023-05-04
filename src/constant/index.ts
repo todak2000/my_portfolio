@@ -10,7 +10,7 @@ import Widget from "../../public/svg/widget.png";
 import Voom from "../../public/svg/Voom.png";
 
 export const ResumeLink =
-  "https://drive.google.com/file/d/1pR31SYJO4F4YNVSwje4rkri9VZRsXkGF/view?usp=share_link";
+  "https://docs.google.com/document/d/1o6iCM_C9dRb1ZMddYb35VUGF5NZ5BnpAZDTxaPnNRy0/edit?usp=sharing";
 export const navbarArr = [
   {
     id: 1,
